@@ -26,12 +26,6 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
 	{
 		return super.authenticationManagerBean();
 	}
-	
-	@Override
-	protected void configure(HttpSecurity http) throws Exception {
-		http.csrf().disable().anonymous().disable().authorizeRequests().antMatchers("/oauth/**").permitAll().and()
-		.addFilterBefore(new SimpleCorsFilter(), ChannelProcessingFilter.class);
-	}
 //	
 //	@Override
 //	public void configure(WebSecurity web) throws Exception {
