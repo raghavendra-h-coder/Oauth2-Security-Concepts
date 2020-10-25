@@ -1,0 +1,15 @@
+com\resourceserver\concepts\oauth\SecurityConfiguration.class
+com\resourceserver\concepts\oauth\CustomRemoteTokenService.class
+com\resourceserver\concepts\oauth\OAuth2FeignRequestInterceptor.class
+com\resourceserver\concepts\Service\SecurityService.class
+com\resourceserver\concepts\oauth\ResourceServerConfiguration$OAuthRequestedMatcher.class
+com\resourceserver\concepts\Server\ResourceServer.class
+com\resourceserver\concepts\Resource\SecurityResource.class
+com\resourceserver\concepts\oauth\ResourceServerConfiguration.class
+com\resourceserver\concepts\Service\SecurityServiceImpl.class
+com\resourceserver\concepts\oauth\CustomRemoteTokenService$1.class
+com\resourceserver\concepts\oauth\ResourceServerConfiguration$Constant.class
+com\resourceserver\concepts\oauth\OAuth2FeignRequestInterceptor$Constant.class
+com\resourceserver\concepts\oauth\SimpleCorsFilter.class
+com\resourceserver\concepts\Resource\SecurityResourceImpl.class
+com\resourceserver\concepts\oauth\OAuth2FeignRequestInterceptor$1.class

@@ -1,0 +1,12 @@
+com\authserver\concepts\Config\SimpleCorsFilter.class
+com\authserver\concepts\Server\AuthSever.class
+com\authserver\concepts\Repository\UserRepository.class
+com\authserver\concepts\Service\AuthService.class
+com\authserver\concepts\Resource\AuthResourceImpl.class
+com\authserver\concepts\Service\UserDetailsServiceImpl.class
+com\authserver\concepts\Config\WebSecurityConfiguration.class
+com\authserver\concepts\Entity\User.class
+com\authserver\concepts\Config\AuthorizationServerConfiguration.class
+com\authserver\concepts\Resource\AuthResource.class
+com\authserver\concepts\Config\UserPrincipal.class
+com\authserver\concepts\Service\AuthServiceImpl.class

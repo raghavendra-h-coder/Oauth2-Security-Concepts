@@ -1,0 +1,10 @@
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\oauth\OAuth2FeignRequestInterceptor.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\oauth\ResourceServerConfiguration.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\Server\ResourceServer.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\Resource\SecurityResource.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\Service\SecurityService.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\oauth\SecurityConfiguration.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\oauth\CustomRemoteTokenService.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\oauth\SimpleCorsFilter.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\Resource\SecurityResourceImpl.java
+D:\officeworkspace\ResourceServerConcepts\src\main\java\com\resourceserver\concepts\Service\SecurityServiceImpl.java
